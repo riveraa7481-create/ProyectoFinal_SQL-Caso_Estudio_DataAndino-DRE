@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imagenes/banner_hotel_sql.png" width="100%">
+</p>
+
 # Proyecto Final SQL – Análisis de cancelaciones de reservas hoteleras
 
 ## Descripción del proyecto
