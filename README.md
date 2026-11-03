@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner/banner_hotel_sql" width="100%">
+  <img src="Banner/banner_hotel_sql.png" width="100%">
 </p>
 
 # Proyecto Final SQL – Análisis de cancelaciones de reservas hoteleras
